@@ -1,0 +1,32 @@
+/*ログインボタン*/
+.btn {
+    border-radius: 5px;
+    background-color: lightblue;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+  }
+
+  /*外枠ボックス*/
+  .waku-box1 {
+    text-align: center;
+    padding: 50px;
+    margin:200px auto;
+    width: 70%;
+    background-color: #fff; /* 背景色 */
+    border: 3px solid #ccc; /* 枠線 */
+   }
+
+   /*内枠ボックス*/
+   .waku-box2 {
+    padding: 1em 1.5em;
+    margin: 1em 0;
+    background-color:skyblue;/*背景色*/
+    border:1px solid skyblue;/*線*/
+    color:#000000;/*文字色*/
+    border-radius: 10px;/*角の丸み*/
+}
+.waku-box2 p {
+    margin: 0; 
+    padding: 0;
+}
